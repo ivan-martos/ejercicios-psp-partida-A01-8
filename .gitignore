@@ -1,0 +1,21 @@
+# Archivos de compilación de Java
+*.class
+out/
+bin/
+build/
+target/
+
+# Configuración del IDE (IntelliJ IDEA)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Ficheros temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ficheros generados durante los ejercicios de PSP (ej. Ejercicio 7)
+*.log
+frases.txt
+mayusculas.txt
